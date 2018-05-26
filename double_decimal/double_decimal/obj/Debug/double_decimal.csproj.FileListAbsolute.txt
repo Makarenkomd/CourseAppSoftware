@@ -1,0 +1,6 @@
+D:\Makarenko\APP_ИВТ2\double_decimal\double_decimal\bin\Debug\double_decimal.exe.config
+D:\Makarenko\APP_ИВТ2\double_decimal\double_decimal\bin\Debug\double_decimal.exe
+D:\Makarenko\APP_ИВТ2\double_decimal\double_decimal\bin\Debug\double_decimal.pdb
+D:\Makarenko\APP_ИВТ2\double_decimal\double_decimal\obj\Debug\double_decimal.csprojResolveAssemblyReference.cache
+D:\Makarenko\APP_ИВТ2\double_decimal\double_decimal\obj\Debug\double_decimal.exe
+D:\Makarenko\APP_ИВТ2\double_decimal\double_decimal\obj\Debug\double_decimal.pdb
